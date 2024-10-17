@@ -1,0 +1,24 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is my awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+This is an **awesome** website about data science and elmo
+
+Sometimes I use [google](https://www.google.com/) to do data science when i'm stuck.
+
+This is my cat Ted. He is a good cat.
+
+![](images/cat.jpg)
+
+<img src="images/cat.jpg" style="width:75%">
+
+If you'd like to learn more about this website, visit [this page](about.html).
